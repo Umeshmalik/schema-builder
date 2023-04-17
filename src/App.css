@@ -1,0 +1,22 @@
+.items > * {
+    margin: 10px 0 10px 10px;
+    height: auto;
+    width: auto;
+}
+
+hr {
+    color: #bfbebb;
+}
+
+.card {
+    width: max(500px, 50vw);
+}
+
+.sep {
+    display: flex;
+    justify-content: space-between;
+}
+
+.schema {
+    height: 300px;
+}
